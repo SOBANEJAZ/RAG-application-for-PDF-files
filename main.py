@@ -17,7 +17,7 @@ CHROMA_PATH = "Vector_Database/"      # Directory for saving the vector database
 
 
 # OPEN AI API key in use
-Open_ai = "sk-6UD7jYlht560sKBMm3oHT"
+Open_ai = "sk-"
 
 
 
